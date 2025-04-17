@@ -20,3 +20,5 @@ npm start
 
 ### 4. View the App
 Open http://localhost:3000 in your browser.
+
+---
