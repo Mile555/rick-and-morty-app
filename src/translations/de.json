@@ -1,0 +1,17 @@
+{
+    "title": "Rick und Morty Charaktere",
+    "status": "Status",
+    "species": "Spezies",
+    "sortBy": "Sortieren nach",
+    "all": "Alle",
+    "alive": "Lebendig",
+    "dead": "Tot",
+    "unknown": "Unbekannt",
+    "name": "Name",
+    "origin": "Herkunft",
+    "loading": "Lädt...",
+    "error": "Fehler beim Laden der Charaktere 😢",
+    "loadingMore": "Lade mehr Charaktere...",
+    "gender": "Geschlecht"
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "title": "Personazhet e Rick dhe Morty",
+    "status": "Statusi",
+    "species": "Specia",
+    "sortBy": "Rendit sipas",
+    "all": "Të gjithë",
+    "alive": "Gjallë",
+    "dead": "I vdekur",
+    "unknown": "E panjohur",
+    "name": "Emri",
+    "origin": "Origjina",
+    "loading": "Duke ngarkuar...",
+    "error": "Gabim gjatë marrjes së personazheve 😢",
+    "loadingMore": "Duke ngarkuar më shumë personazhe...",
+    "gender": "Gjinia"
+  }
+  
