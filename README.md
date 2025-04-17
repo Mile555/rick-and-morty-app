@@ -9,6 +9,7 @@ Welcome to the **Rick and Morty Character Explorer**, a responsive and dynamic R
 ### 1. Clone the Repository
 
 git clone https://github.com/Mile555/rick-and-morty-app.git
+
 cd rick-and-morty-app
 
 ### 2. Install Dependencies
